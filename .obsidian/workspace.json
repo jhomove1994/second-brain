@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "020fde69e63ec8cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c18b3066c98a677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8ecc91fdd01cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-resources/Configuración Hammerspoon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuración Hammerspoon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "195bcbc23d2cc4ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aaf2261eb4b1d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4fef6a8f9b8427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65bce8e2d6b6a556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61cb788286057cb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4773f7e0bbaf1de",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6813425080e53c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10d371c45c7050a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "300-resources/Atajos de Teclado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Atajos de Teclado"
+            }
+          },
+          {
+            "id": "9b183bb5aecbb934",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "300-resources/Atajos de Teclado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Atajos de Teclado"
+            }
+          },
+          {
+            "id": "2cab3779957650e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7be56a9f7d3ef5aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "300-resources/Atajos de Teclado.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Atajos de Teclado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac8ecc91fdd01cfc",
+  "lastOpenFiles": [
+    "300-resources/Atajos de Teclado.md",
+    "100-projects/Dominar Hammerspoon.md",
+    "200-areas/Productividad.md",
+    "Cursos Online.md"
+  ]
+}
